@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "214328585",
+    "firebase_url": "https://lets-chat-a2604.firebaseio.com",
+    "project_id": "lets-chat-a2604",
+    "storage_bucket": "lets-chat-a2604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214328585:android:6317323bfa602cc5",
+        "android_client_info": {
+          "package_name": "com.jeetesh.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214328585-ntjoiqap90k1shot189c3dda8lvrjopf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEPdJFyQNnq_97DAzX89lT2xiUij1GDC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
