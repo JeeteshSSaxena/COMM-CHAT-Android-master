@@ -90,4 +90,10 @@ public class MainChatActivity extends AppCompatActivity {
             mAdapter.clean();
     }
 
+     @Override
+    public void onBackPressed(){
+        Intent i=new Intent(this,LoginActivity.class);
+        finish();
+        startActivity(i);
+    }
 }
